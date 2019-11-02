@@ -1,22 +1,22 @@
 # vfor1Verk07
 
-1. Búið til CSS skjal sem heitir style
-2. Vinna í HTML skjalinu
-2.1 Búið til tengingu við CSS skjalið ykkar
-2.2 Í hvert P tagg eigið þið að búa til id. Í Fyrsta p taggið, sem inniheldur textann "14.0 VERY ALKALINE" á að setja id fourteen. Í næsta fyrir neðan, sem inniheldur textann 13.0, á að setja id thirteen o.s.frv.
+#1. Búið til CSS skjal sem heitir style
+#2. Vinna í HTML skjalinu
+#2.1 Búið til tengingu við CSS skjalið ykkar
+#2.2 Í hvert P tagg eigið þið að búa til id. Í Fyrsta p taggið, sem inniheldur textann "14.0 VERY ALKALINE" á að setja id fourteen. Í næsta fyrir neðan, sem inniheldur textann 13.0, á að setja id thirteen o.s.frv.
 
-3. Vinna  CSS skjalinu
-3.1 Hafið áhrif á body með:
-3.1.1 Breytið bakgrunnslit í "silver"
-3.1.2 Breytið letur lit í "white"
-3.1.3 Setjið padding í 20 pixla
-3.1.4 Setjið font family sem: Ariel, Verdana, sans-serif
+#3. Vinna  CSS skjalinu
+#3.1 Hafið áhrif á body með:
+#3.1.1 Breytið bakgrunnslit í "silver"
+#3.1.2 Breytið letur lit í "white"
+#3.1.3 Setjið padding í 20 pixla
+#3.1.4 Setjið font family sem: Ariel, Verdana, sans-serif
 
-3.2 Hafið áhrif á heading 1
-3.2.1 Setjið bakgrunnslit sem #ffffff
-3.2.2 Setjið bakgrunnslit sem hsla(0,100%,100%,0.5)
-3.2.3 Setjið leturlit sem #64645A
-3.2.4 Látið heading 1 erfa padding frá tagginu sem er utan um það
+#3.2 Hafið áhrif á heading 1
+#3.2.1 Setjið bakgrunnslit sem #ffffff
+#3.2.2 Setjið bakgrunnslit sem hsla(0,100%,100%,0.5)
+#3.2.3 Setjið leturlit sem #64645A
+#3.2.4 Látið heading 1 erfa padding frá tagginu sem er utan um það
 
 3.3 Hafið áhrif á öll p tögg
 3.3.1 Látið p tögg fá padding 5 pixla
